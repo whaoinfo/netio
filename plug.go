@@ -1,4 +1,4 @@
-package gateway
+package netio
 
 import (
 	"github.com/whaoinfo/go-box/logger"
